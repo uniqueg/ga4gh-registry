@@ -74,6 +74,8 @@ To register an implementation, please enter the information for the implementati
   }
 ```
 
+Alternatively, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeSb5Wvz-48S3Dcd-PNO-TnVQdD3senB1Nkxw6tuDqlxuHpUA/viewform?usp=dialog).
+
 ## Maintainers
 
 * GA4GH Tech Team [ga4gh-tech-team@ga4gh.org](mailto:ga4gh-tech-team@ga4gh.org)
